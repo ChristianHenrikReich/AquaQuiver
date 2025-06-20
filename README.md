@@ -1,7 +1,11 @@
 # AquaQuiver
-This is a pico-example of a meta-data driven lakehouse for Microsoft Fabric. For a full scale solution, I recommend twoday's AquaVilla best practices.
+This is a pico-example of a Apache Arrow based meta-data driven lakehouse for Microsoft Fabric. For a full scale solution, I recommend twoday's AquaVilla best practices.
 
 If wanting an Apache Spark based version of a meta-data driven lakehouse for Microsoft Fabric, there is also [AquaShack](https://github.com/ChristianHenrikReich/AquaShack)
+
+## Notes
+
+Currently, due to Microsoft Fabric, it have to run on PySpark compute instead of a Python Notebook compute.
 
 ## Installation 
 
