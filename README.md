@@ -20,6 +20,11 @@ The notebook 2_AquaShack_Base_To_Curated will move data from Base to Curated.
 
 ![image](https://github.com/user-attachments/assets/470adae5-d49d-4ffd-a23e-49cf29e1f1ec)
 
+### Project layout
+
+<img width="1794" alt="image" src="https://github.com/user-attachments/assets/23e4484a-ed49-4e07-a944-e8c59a0ae7ec" />
+
+
 ## Articles
 
 [Delta and Parquet: Integer, GUID/UUID or SHA256 as ID?](https://medium.com/@christianhenrikreich/delta-and-parquet-integer-guid-uuid-or-sha256-as-id-67ba15b4437f)
